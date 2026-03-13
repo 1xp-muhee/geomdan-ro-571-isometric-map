@@ -39,4 +39,5 @@ messy composition, overly complex roads, distorted buildings, unrealistic perspe
 
 ## Generated Output
 
+- `generated/2026-03-13-13-50-10-geomdan-ro-571-building-emphasis.png`: 참고 이미지 스타일을 반영한 건물 강조 버전
 - `generated/2026-03-13-13-42-00-geomdan-ro-571-isometric-map.png`: Nano Banana Pro로 생성한 홍보용 아이소메트릭 3D 약도 결과물
