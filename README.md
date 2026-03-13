@@ -35,3 +35,8 @@ messy composition, overly complex roads, distorted buildings, unrealistic perspe
 ## Note
 현재 저장소에는 **이미지 생성 프롬프트와 제작 가이드**가 포함되어 있습니다.
 실제 이미지 렌더링은 이미지 생성 도구(Nano Banana Pro, Midjourney, DALL·E, Gemini Image 등)에 위 프롬프트를 넣어 진행하면 됩니다.
+
+
+## Generated Output
+
+- `generated/2026-03-13-13-42-00-geomdan-ro-571-isometric-map.png`: Nano Banana Pro로 생성한 홍보용 아이소메트릭 3D 약도 결과물
